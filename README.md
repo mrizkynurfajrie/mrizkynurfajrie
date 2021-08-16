@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mrizkynurfajrie
-- 👀 I’m interested in IT & Programming Life's
-- 🌱 I’m currently learning Mobile Programming
-- 💞️ I’m looking to collaborate on Flutter Project's
+- 👀 I’m interested in Everything(?)
+- 🌱 I’m currently learning Dart Programming
 - 📫 How to reach me instagram: mrizkynurfajrie, linkedin mrizkynurfajrie
 
 <!---
